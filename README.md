@@ -12,5 +12,5 @@ The data dictionary describing the data fields can be found in the original [pap
   - ANOVA analysis
   - Exploratory Data Analysis (EDA)
   - Data Visualization
-  - Machine Learning Classification Algorithms: Logistic Regression, Random Forest, Artificial Neural Network, KNN, Naive Bayes, Support Vector Machines, Ensemble Method
+  - Machine Learning Classification Algorithms: Logistic Regression, Random Forest, Artificial Neural Network (Tensorflow), KNN, Naive Bayes, Support Vector Machines, Ensemble Method
   - [Tableau Dashboard](https://public.tableau.com/app/profile/darryl.spencer/viz/HotelBookingDemandAnalysis_16904256930440/Dashboard1?publish=yes)
